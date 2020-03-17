@@ -26,6 +26,8 @@ public class Basic {
 
         System.out.println("Common update,pc_zhoujun.");
 
+        System.out.println("Common update,mac_zhoujun.");
+
         System.out.println("args = [" + args + "]");
         for (int i = 0; i < list.size() ;i++) {
             System.out.println(list.get(i));
