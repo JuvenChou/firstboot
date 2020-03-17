@@ -21,12 +21,15 @@ public class Basic {
         list.add("t2");
         list.add("t3");
         list.add("t4");
+
         Date date = new Date();
 
+        System.out.println("Common update,pc_zhoujun.");
 
         System.out.println("args = [" + args + "]");
         for (int i = 0; i < list.size() ;i++) {
             System.out.println(list.get(i));
+
         }
 
         for (Object o : list) {
